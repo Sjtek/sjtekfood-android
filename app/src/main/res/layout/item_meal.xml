@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_height_single_item"
+    android:paddingStart="@dimen/list_padding_start"
+    android:paddingEnd="@dimen/list_padding_end"
+    android:gravity="start|center_vertical"
+    android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
