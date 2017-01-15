@@ -2,4 +2,4 @@
 An app for suggesting dinner recipes.
 
 ## Screenshot
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.jpg)
